@@ -1,0 +1,6 @@
+@WebApiFpf_HostAddress = http://localhost:5239
+
+GET {{WebApiFpf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
