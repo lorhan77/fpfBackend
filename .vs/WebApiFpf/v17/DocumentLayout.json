@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\services\\skill\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\services\\skill\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\services\\skill\\iskillinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\services\\skill\\iskillinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\dto\\candidate\\assignskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\dto\\candidate\\assignskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\dto\\candidate\\candidateskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\dto\\candidate\\candidateskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\services\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\services\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\dto\\skill\\createskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\dto\\skill\\createskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\dto\\skill\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\dto\\skill\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\services\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\services\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\services\\candidate\\icandidateinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +82,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "WebApiFpf\\Controllers\\SkillController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:47:02.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Program.cs",
+              "RelativeToolTip": "WebApiFpf\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:01:05.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateSkillDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\CandidateSkillDto.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Candidate\\CandidateSkillDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\CandidateSkillDto.cs",
+              "RelativeToolTip": "WebApiFpf\\Dto\\Candidate\\CandidateSkillDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:58:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SkillDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Skill\\SkillDto.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Skill\\SkillDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Skill\\SkillDto.cs",
+              "RelativeToolTip": "WebApiFpf\\Dto\\Skill\\SkillDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:53:50.044Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SkillService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Skill\\SkillService.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Services\\Skill\\SkillService.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Skill\\SkillService.cs",
+              "RelativeToolTip": "WebApiFpf\\Services\\Skill\\SkillService.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAcwN0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:49:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignSkillDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\AssignSkillDto.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Candidate\\AssignSkillDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\AssignSkillDto.cs",
+              "RelativeToolTip": "WebApiFpf\\Dto\\Candidate\\AssignSkillDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:58:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISkillInterface.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Skill\\ISkillInterface.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Services\\Skill\\ISkillInterface.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Skill\\ISkillInterface.cs",
+              "RelativeToolTip": "WebApiFpf\\Services\\Skill\\ISkillInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:50:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateSkillDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Skill\\CreateSkillDto.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Skill\\CreateSkillDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Skill\\CreateSkillDto.cs",
+              "RelativeToolTip": "WebApiFpf\\Dto\\Skill\\CreateSkillDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:53:59.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Data\\AppDbContext.cs",
@@ -58,12 +187,47 @@
               "RelativeToolTip": "WebApiFpf\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:05:33.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:05:33.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "WebApiFpf\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T18:53:23.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\CandidateService.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Services\\Candidate\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\CandidateService.cs",
+              "RelativeToolTip": "WebApiFpf\\Services\\Candidate\\CandidateService.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAwJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T18:44:23.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICandidateInterface.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
+              "RelativeToolTip": "WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T18:45:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UpdateCandidateDto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\UpdateCandidateDto.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Candidate\\UpdateCandidateDto.cs",
@@ -75,33 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CandidateController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Controllers\\CandidateController.cs",
-              "RelativeDocumentMoniker": "WebApiFpf\\Controllers\\CandidateController.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Controllers\\CandidateController.cs",
-              "RelativeToolTip": "WebApiFpf\\Controllers\\CandidateController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAADoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T18:53:23.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CandidateService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\CandidateService.cs",
-              "RelativeDocumentMoniker": "WebApiFpf\\Services\\Candidate\\CandidateService.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\CandidateService.cs",
-              "RelativeToolTip": "WebApiFpf\\Services\\Candidate\\CandidateService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T18:44:23.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "CreateCandidateDto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
@@ -113,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "CandidateModel.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Models\\Entities\\CandidateModel.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Models\\Entities\\CandidateModel.cs",
@@ -122,18 +260,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T21:54:28.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICandidateInterface.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
-              "RelativeDocumentMoniker": "WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
-              "RelativeToolTip": "WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T18:45:06.691Z"
             }
           ]
         }

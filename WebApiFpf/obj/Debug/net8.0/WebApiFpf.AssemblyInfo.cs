@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiFpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e128f361444c59d21ef3718e6e32322d5bb898a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f1aedd169f9ce03a4bce95e35a4c6f6c2e12f97")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiFpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiFpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

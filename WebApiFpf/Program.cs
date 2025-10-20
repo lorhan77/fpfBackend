@@ -1,5 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 namespace WebApiFpf
 {
@@ -11,7 +12,12 @@ namespace WebApiFpf
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers()
+                .AddJsonOptions(options =>
+                {
+                    options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+                });
+            ;
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -22,6 +28,7 @@ namespace WebApiFpf
             });
 
             builder.Services.AddScoped<Services.Candidate.ICandidateInterface, Services.Candidate.CandidateService>();
+            builder.Services.AddScoped<Services.Skill.ISkillService, Services.Skill.SkillService>();
 
             var app = builder.Build();
 
