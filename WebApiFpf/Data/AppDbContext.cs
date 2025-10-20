@@ -19,7 +19,10 @@ namespace WebApiFpf.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            
+            modelBuilder.Entity<CandidateModel>()
+                .HasIndex(c => c.Email)
+                .IsUnique();
+
             modelBuilder.Entity<CandidateSkillModel>()
                 .HasKey(cs => new { cs.CandidateId, cs.SkillId });
 

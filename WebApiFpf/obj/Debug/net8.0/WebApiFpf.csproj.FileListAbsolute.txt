@@ -137,3 +137,4 @@ C:\Users\gabri\OneDrive\Documentos\Projetos\WebApiFpf\WebApiFpf\obj\Debug\net8.0
 C:\Users\gabri\OneDrive\Documentos\Projetos\WebApiFpf\WebApiFpf\obj\Debug\net8.0\WebApiFpf.pdb
 C:\Users\gabri\OneDrive\Documentos\Projetos\WebApiFpf\WebApiFpf\obj\Debug\net8.0\WebApiFpf.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Documentos\Projetos\WebApiFpf\WebApiFpf\obj\Debug\net8.0\ref\WebApiFpf.dll
+C:\Users\gabri\OneDrive\Documentos\Projetos\WebApiFpf\WebApiFpf\obj\Debug\net8.0\WebApiFpf.sourcelink.json

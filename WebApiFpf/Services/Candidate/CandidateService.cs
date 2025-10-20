@@ -20,6 +20,14 @@ namespace WebApiFpf.Services.Candidate
 
             try
             {
+                var emailExists = await _context.Candidates.AnyAsync(c => c.Email.ToLower() == createCandidateDto.Email.Trim().ToLower());
+                if (emailExists)
+                {
+                    response.Mensagem = "Email já cadastrado.";
+                    response.Status = false;
+                    return response;
+                }
+
                 var candidate = new CandidateModel()
                 {
                     FullName = createCandidateDto.FullName,

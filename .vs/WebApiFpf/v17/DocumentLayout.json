@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|c:\\users\\gabri\\onedrive\\documentos\\projetos\\webapifpf\\webapifpf\\services\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F7D3083-EAE2-413F-B6C3-2B39007C816F}|WebApiFpf\\WebApiFpf.csproj|solutionrelative:webapifpf\\services\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,19 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateCandidateDto.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
-              "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
-              "RelativeToolTip": "WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiFpf\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T23:07:35.247Z"
+              "WhenOpened": "2025-10-20T01:05:33.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UpdateCandidateDto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\UpdateCandidateDto.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Candidate\\UpdateCandidateDto.cs",
@@ -70,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CandidateController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Controllers\\CandidateController.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Controllers\\CandidateController.cs",
@@ -78,17 +83,18 @@
               "RelativeToolTip": "WebApiFpf\\Controllers\\CandidateController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAADoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T18:53:23.822Z"
+              "WhenOpened": "2025-10-19T18:53:23.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CandidateService.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\CandidateService.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Services\\Candidate\\CandidateService.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\CandidateService.cs",
               "RelativeToolTip": "WebApiFpf\\Services\\Candidate\\CandidateService.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAcwHIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T18:44:23.574Z",
               "EditorCaption": ""
@@ -96,6 +102,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CreateCandidateDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
+              "RelativeDocumentMoniker": "WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
+              "RelativeToolTip": "WebApiFpf\\Dto\\Candidate\\CreateCandidateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:07:35.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CandidateModel.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Models\\Entities\\CandidateModel.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Models\\Entities\\CandidateModel.cs",
@@ -107,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ICandidateInterface.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\WebApiFpf\\WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
               "RelativeDocumentMoniker": "WebApiFpf\\Services\\Candidate\\ICandidateInterface.cs",
